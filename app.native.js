@@ -18,7 +18,6 @@ bottomNavItem.forEach((item, index) => {
     //remove all themes from container before adding new ones
     themeList.forEach(function (item) {
       bottomNav.classList.remove(item);
-      Navbar.classList.remove(item);
     });
 
     //use id from array of buttons to determine theme to be displayed
