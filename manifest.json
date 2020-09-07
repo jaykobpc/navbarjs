@@ -1,0 +1,20 @@
+{
+    "name": "Native_App",
+    "short_name": "Native_App",
+    "start_url": ".",
+    "background_color": "#4b64f2",
+    "theme-color": "#4b64f2",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
